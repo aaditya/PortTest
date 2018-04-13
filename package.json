@@ -1,13 +1,13 @@
 {
-  "name": "http-server",
+  "name": "port-checker",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aaditya",
-  "license": "ISC",
+  "author": "Aaditya Chakravarty",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.15.4",
     "net": "^1.0.2",
